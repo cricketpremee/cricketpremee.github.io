@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://cricketpremee.github.io/ne/</loc><xhtml:link rel="alternate" hreflang="en" href="https://cricketpremee.github.io/en/"/><xhtml:link rel="alternate" hreflang="ne" href="https://cricketpremee.github.io/ne/"/></url><url><loc>https://cricketpremee.github.io/ne/categories/</loc><xhtml:link rel="alternate" hreflang="en" href="https://cricketpremee.github.io/en/categories/"/><xhtml:link rel="alternate" hreflang="ne" href="https://cricketpremee.github.io/ne/categories/"/></url><url><loc>https://cricketpremee.github.io/ne/tags/</loc><xhtml:link rel="alternate" hreflang="en" href="https://cricketpremee.github.io/en/tags/"/><xhtml:link rel="alternate" hreflang="ne" href="https://cricketpremee.github.io/ne/tags/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/ne/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ne"
+                href="http://localhost:1313/ne/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ne/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ne"
+                href="http://localhost:1313/ne/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ne/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ne"
+                href="http://localhost:1313/ne/tags/"
+                />
+  </url>
+</urlset>
