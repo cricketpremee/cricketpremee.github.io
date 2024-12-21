@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Blog of Cricket Premee</title>
-    <link>http://localhost:1313/en/page/</link>
-    <description>Recent content in Pages on Blog of Cricket Premee</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/en/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/page/about/</guid>
-      <description>&lt;p&gt;I am a cricket enthusiast and I love to watch, analyse and write about cricket.&lt;/p&gt;&#xA;&lt;p&gt;I have been following cricket for about 20 years now and witness the evolution of the game, especially at the associate level.&lt;/p&gt;&#xA;&lt;p&gt;I avidly follow Nepal cricket so most of my posts and analysis will be about Nepal cricket.&lt;/p&gt;&#xA;&lt;p&gt;Occasionally, I will write about other things. Most of my instant takes will be on Twitter with a more detailed analysis here.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Blog of Cricket Premee</title><link>https://cricketpremee.github.io/en/page/</link><description>Recent content in Pages on Blog of Cricket Premee</description><generator>Hugo</generator><language>en</language><atom:link href="https://cricketpremee.github.io/en/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://cricketpremee.github.io/en/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cricketpremee.github.io/en/page/about/</guid><description>&lt;p>I am a cricket enthusiast and I love to watch, analyse and write about cricket.&lt;/p>
+&lt;p>I have been following cricket for about 20 years now and witness the evolution of the game, especially at the associate level.&lt;/p>
+&lt;p>I avidly follow Nepal cricket so most of my posts and analysis will be about Nepal cricket.&lt;/p>
+&lt;p>Occasionally, I will write about other things. Most of my instant takes will be on Twitter with a more detailed analysis here.&lt;/p></description></item></channel></rss>

@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MatchAnalysis on Blog of Cricket Premee</title>
-    <link>http://localhost:1313/en/tags/matchanalysis/</link>
-    <description>Recent content in MatchAnalysis on Blog of Cricket Premee</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 10:00:00 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/matchanalysis/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>NEP vs BAN: U19 Cricket World Cup 2024 - Match Review</title>
-      <link>http://localhost:1313/en/blog/reviews/u19cwc2024-nepal-vs-bangladesh-match-review/</link>
-      <pubDate>Thu, 01 Feb 2024 10:00:00 +1100</pubDate>
-      <guid>http://localhost:1313/en/blog/reviews/u19cwc2024-nepal-vs-bangladesh-match-review/</guid>
-      <description>&lt;h1 id=&#34;nep-vs-ban-u19-cricket-world-cup-2024---match-analysis&#34;&gt;NEP vs BAN: U19 Cricket World Cup 2024 - Match Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Nepal faced a formidable challenge against Bangladesh in the U19 Cricket World Cup 2024, Super Sixes round and were beaten comprehensively by the 2020 champions.&#xA;Despite an underwhelming batting display, the match had moments of brilliance and lessons to take forward. Here’s the analysis of the match, player performances, and key takeaways.&lt;/p&gt;&#xA;&lt;p&gt;Here is the scorecard for the match from &lt;a href=&#34;https://www.espncricinfo.com/series/icc-under-19-world-cup-2023-24-1399722/bangladesh-under-19s-vs-nepal-under-19s-29th-match-super-sixes-group-1-1399752/full-scorecard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESPN Cricinfo&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MatchAnalysis on Blog of Cricket Premee</title><link>https://cricketpremee.github.io/en/tags/matchanalysis/</link><description>Recent content in MatchAnalysis on Blog of Cricket Premee</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 Feb 2024 10:00:00 +1100</lastBuildDate><atom:link href="https://cricketpremee.github.io/en/tags/matchanalysis/index.xml" rel="self" type="application/rss+xml"/><item><title>NEP vs BAN: U19 Cricket World Cup 2024 - Match Review</title><link>https://cricketpremee.github.io/en/blog/reviews/u19cwc2024-nepal-vs-bangladesh-match-review/</link><pubDate>Thu, 01 Feb 2024 10:00:00 +1100</pubDate><guid>https://cricketpremee.github.io/en/blog/reviews/u19cwc2024-nepal-vs-bangladesh-match-review/</guid><description>&lt;h1 id="nep-vs-ban-u19-cricket-world-cup-2024---match-analysis">NEP vs BAN: U19 Cricket World Cup 2024 - Match Analysis&lt;/h1>
+&lt;p>Nepal faced a formidable challenge against Bangladesh in the U19 Cricket World Cup 2024, Super Sixes round and were beaten comprehensively by the 2020 champions.
+Despite an underwhelming batting display, the match had moments of brilliance and lessons to take forward. Here’s the analysis of the match, player performances, and key takeaways.&lt;/p>
+&lt;p>Here is the scorecard for the match from &lt;a href="https://www.espncricinfo.com/series/icc-under-19-world-cup-2023-24-1399722/bangladesh-under-19s-vs-nepal-under-19s-29th-match-super-sixes-group-1-1399752/full-scorecard" target="_blank" rel="noopener">ESPN Cricinfo&lt;/a>
+.&lt;/p></description></item></channel></rss>
